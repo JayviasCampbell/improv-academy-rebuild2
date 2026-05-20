@@ -23,7 +23,7 @@ Whether through advertising, public relations, or web development, I’m excited
 
 
 Jayvias Campbell
-Courteous and enthusiastic, I am interested in IT and everything in its orbit. I recently was a student in the Career Source and Computer Coach Apprenticeship Program, where I gained advanced experience in front-end web development. I am pursuing a degree in Computer Science, but am willing to gain more insight into the web development field. For this reason, I am seeking a company willing to offer me a placement among their developers. In return, I will offer my full accountability, and be a pleasant addition. To learn more about my projects, feel free to view my Github https://github.com/Snookiwantsmooshsmoosh
+Courteous and enthusiastic, I am interested in IT and everything in its orbit. I recently was a student in the Career Source and Computer Coach Apprenticeship Program, where I gained advanced experience in front-end web development. I am pursuing a degree in Computer Science, but am willing to gain more insight into the web development field. For this reason, I am seeking a company willing to offer me a placement among their developers. In return, I will offer my full accountability, and be a pleasant addition. To learn more about my projects, feel free to view my Github https://github.com/JayviasCampbell
 
 
 License:
